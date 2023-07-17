@@ -1,0 +1,15 @@
+{
+  "name": "practice-for-ch-js-asteroids-long-practice-main",
+  "version": "1.0.0",
+  "description": "In this practice, you will implement the classic game Asteroids.",
+  "scripts": {
+    "start": "webpack --watch --mode=development"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.88.1",
+    "webpack-cli": "^5.1.4"
+  }
+}
